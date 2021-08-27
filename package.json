@@ -1,0 +1,30 @@
+{
+  "name": "pubgloadoutlotto",
+  "version": "1.0.0",
+  "description": "Creates a random weapon loadout to use for your PUBG games",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^13.1.0",
+    "dotenv": "^10.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js",
+    "dev":"nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LintfordPickle/pubgloadoutlotto.git"
+  },
+  "keywords": [
+    "pubg",
+    "discord"
+  ],
+  "author": "LintfordPickle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LintfordPickle/pubgloadoutlotto/issues"
+  },
+  "homepage": "https://github.com/LintfordPickle/pubgloadoutlotto#readme"
+}
